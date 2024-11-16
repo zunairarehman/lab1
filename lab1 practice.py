@@ -1,8 +1,8 @@
-#my first program
+#program 1
 print("HELLO WORLD")
-#my second program
+#program 2
 print("WELCOME TO THE\nWORLD OF PROGRAMMING")
-#bio data
+#program 3
 name=input("Enter name:")
 age=input("Enter age:")
 city=input("Enter city:")
